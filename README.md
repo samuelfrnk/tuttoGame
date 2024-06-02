@@ -12,7 +12,7 @@ Ensure you have Java installed on your computer. You can check your Java version
 
 ### Build and Run
 
-1. **Compile the Game**: Open your command line interface, navigate to the directory containing the game's source code, and compile the main Java file:
+1. **Compile the Game**: Open your command line interface, navigate to the src directory c, and compile the main Java file:
     ```bash
     javac Main.java
     ```
