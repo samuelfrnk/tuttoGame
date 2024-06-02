@@ -26,4 +26,4 @@ This will start the game in your terminal, and you can begin playing immediately
 
 ## Game Rules
 
-For detailed rules on how to play Tutto, visit [this link](https://example.com/tutto-rules](https://abacusspiele.de/wp-content/uploads/2021/01/Tutto_Regel_GB.pdf). The linked page includes all you need to know to get started and advanced strategies for experienced players.
+For detailed rules on how to play Tutto, visit [this link](https://abacusspiele.de/wp-content/uploads/2021/01/Tutto_Regel_GB.pdf). The linked page includes all you need to know to get started and advanced strategies for experienced players.
